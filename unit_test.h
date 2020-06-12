@@ -1,6 +1,8 @@
 /**
  * @file unit_test.h
  *
+ * @brief Unit tests for Sqlite database.
+ *
  */
 
 #ifndef UNIT_TEST_H
